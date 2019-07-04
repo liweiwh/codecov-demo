@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/liweiwh/codecov-demo/branch/master/graph/badge.svg)](https://codecov.io/gh/liweiwh/codecov-demo)
+
 # codecov-demo
 
 ## Project setup
